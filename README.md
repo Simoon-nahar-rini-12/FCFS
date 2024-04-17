@@ -15,3 +15,4 @@ The required input for this code includes the following steps:
 :**_</ins>Output:**_</ins>
 The output of the provided the First Come First Serve (FCFS) algorithm will display the turnaround time and waiting time for each process  and the final result:
 
+![FCFS_output](https://github.com/simoon06/-FCFS/assets/139492391/b2ce510b-747b-40aa-a6e0-c4d75bd0ced1)
